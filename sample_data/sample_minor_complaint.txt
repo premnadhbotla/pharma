@@ -1,0 +1,16 @@
+Subject: Minor label smudging on secondary shipping drum - Metformin HCl API Batch MET-API-26-0412
+Date: September 10, 2026
+From: Elena Rostova, Warehouse Inward QA, Novis Formulation Labs (erostova@novislabs.com)
+To: Customer Quality Services, Apex API Synthetics Ltd
+
+Hello Quality Team,
+
+We received shipment of 25 drums of Metformin Hydrochloride USP API, Batch Number MET-API-26-0412 (Mfg Date: 06/2026, Retest Date: 06/2029) on PO #884102.
+
+Upon receiving inspection, drum #14 outer fiber drum shipping label was slightly abraded and smudged during transit. While the product name and batch number are legible, the secondary barcode for warehouse scanning failed our optical reader scan. The tamper-evident drum seal and inner polyethylene double-liner remain completely intact with zero breach or contamination of the active pharmaceutical ingredient.
+
+We have manually verified the batch and release COA. We are requesting a replacement drum outer label with a readable barcode for our warehouse records. No quarantine of the API powder is needed, and chemical testing is proceeding normally.
+
+Best regards,
+Elena Rostova
+Quality Control Incoming Goods, Novis Formulation Labs

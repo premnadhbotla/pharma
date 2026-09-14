@@ -1,0 +1,13 @@
+fastapi==0.115.8
+uvicorn[standard]==0.34.0
+pydantic==2.10.6
+pydantic-settings==2.7.1
+sqlalchemy==2.0.38
+python-multipart==0.0.20
+pypdf==5.3.0
+groq==0.18.0
+langgraph==0.2.74
+langchain-core==0.3.36
+python-dotenv==1.0.1
+httpx==0.28.1
+pytest==8.3.4
